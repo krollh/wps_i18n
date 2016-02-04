@@ -6,124 +6,124 @@
     <name>KBubbleLocalTip</name>
     <message>
         <source>Some features will not work properly. &lt;br/&gt;Please renew now.</source>
-        <translation type="unfinished">Alcune funzionalita' potrebbero non funzionare correttamente. &lt;br/&gt;Rinnova ora.</translation>
+        <translation>Alcune funzionalita' potrebbero non funzionare correttamente. &lt;br/&gt;Rinnova ora.</translation>
     </message>
     <message>
         <source>Renew Now &gt;&gt;</source>
-        <translation type="unfinished">Rinnova Ora &gt;&gt;</translation>
+        <translation>Rinnova Ora &gt;&gt;</translation>
     </message>
     <message>
         <source>Your subscription has expired</source>
-        <translation type="unfinished">La tua iscrizione è scaduta</translation>
+        <translation>La tua iscrizione è scaduta</translation>
     </message>
 </context>
 <context>
     <name>KBubbleTipManager</name>
     <message>
         <source>You try %1 days, and %2 days left. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
-        <translation type="unfinished">Hai provato per %1 giorni, te ne restano %2. &lt;br/&gt;Alla scadenza del peiodo di prova, il prodotto non funzionera' correttamente. &lt;br/&gt; Per evitarlo acquista WPS Office.</translation>
+        <translation>Hai provato per %1 giorni, te ne restano %2. &lt;br/&gt;Alla scadenza del peiodo di prova, il prodotto non funzionera' correttamente. &lt;br/&gt; Per evitarlo acquista WPS Office.</translation>
     </message>
     <message>
         <source>The probation period is about to expire</source>
-        <translation type="unfinished">Il periodo di prova sta per terminare</translation>
+        <translation>Il periodo di prova sta per terminare</translation>
     </message>
     <message>
         <source>Buy Now &gt;&gt;</source>
-        <translation type="unfinished">Acquista &gt;&gt;</translation>
+        <translation>Acquista &gt;&gt;</translation>
     </message>
     <message>
         <source>You hava Authorized %1 days remaining. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
-        <translation type="unfinished">Ti restano solo %1 giorni. &lt;br/&gt;Alla scadenza del peiodo di prova, il prodotto non funzionera' correttamente &lt;br/&gt; Per evitarlo acquista WPS Office.</translation>
+        <translation>Ti restano solo %1 giorni. &lt;br/&gt;Alla scadenza del peiodo di prova, il prodotto non funzionera' correttamente &lt;br/&gt; Per evitarlo acquista WPS Office.</translation>
     </message>
     <message>
         <source>The Authorize period is about to expire</source>
-        <translation type="unfinished">Il periodo autorizzato sta per scadere.</translation>
+        <translation>Il periodo autorizzato sta per scadere.</translation>
     </message>
     <message>
         <source>Renew Now &gt;&gt;</source>
-        <translation type="unfinished">Rinnova Ora</translation>
+        <translation>Rinnova Ora</translation>
     </message>
 </context>
 <context>
     <name>KCnCommonAuthManager</name>
     <message>
         <source>WPS Business</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>KRegisterDlg</name>
     <message>
         <source>The items with &quot;*&quot; must be entered.</source>
-        <translation type="unfinished">I campi segnati con &quot;*&quot; sono obbligatori.</translation>
+        <translation>I campi segnati con &quot;*&quot; sono obbligatori.</translation>
     </message>
     <message>
         <source>Documents&apos; Author</source>
-        <translation type="unfinished">Autore del documento</translation>
+        <translation>Autore del documento</translation>
     </message>
     <message>
         <source>* Name:</source>
-        <translation type="unfinished">* Nome</translation>
+        <translation>* Nome</translation>
     </message>
     <message>
         <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
-        <translation type="unfinished">(&quot;Nome&quot; è il nome dell'autore e del revisore del documento )</translation>
+        <translation>(&quot;Nome&quot; è il nome dell'autore e del revisore del documento )</translation>
     </message>
     <message>
         <source>Initials:</source>
-        <translation type="unfinished">Iniziali:</translation>
+        <translation>Iniziali:</translation>
     </message>
     <message>
         <source>Organization:</source>
-        <translation type="unfinished">Organizzazione:</translation>
+        <translation>Organizzazione:</translation>
     </message>
     <message>
         <source>* Serial No.:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Fail to save the serial number. Please check whether you have the administrator permission or not.</source>
-        <translation type="unfinished">Impossibile salvare il serial number. Verifica di avere i permessi di amministratore.</translation>
+        <translation>Impossibile salvare il serial number. Verifica di avere i permessi di amministratore.</translation>
     </message>
     <message>
         <source>The serial number you entered is invalid. Please check the input format, its supported version and the valid date.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il serial number che hai inserito non e' corretto, controlla il formato, la versione ed il periodo di validita'</translation>
     </message>
     <message>
         <source>Your input is incorrect and the program will exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hai inserito un valore non corretto, il programma si riavviera'</translation>
     </message>
 </context>
 <context>
     <name>KUserCenterMenuCommand</name>
     <message>
         <source>You have signed in WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ti sei loggato in WPS Office</translation>
     </message>
 </context>
 <context>
     <name>KXaCommonAuthManager</name>
     <message>
         <source>Premium</source>
-        <translation type="unfinished"></translation>
+        <translation>Premium</translation>
     </message>
 </context>
 <context>
     <name>KxDaysRemainWidget</name>
     <message>
         <source>Days Remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>Giorni Restanti</translation>
     </message>
 </context>
 <context>
     <name>KxDlgAuthorizeExpireReminder</name>
     <message>
         <source>WPS Office Expiration Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Reminder della scadenza di WPS Office</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -131,26 +131,30 @@
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;Authorize Period Expiration&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;Scadenza del periodo dell'autorizzazione&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The original license has expired,please renew.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;La licenza originale è scaduta, rinnovala.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>preview mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalita' anteprima</translation>
     </message>
     <message>
         <source>Buy/renew Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Compra/Rinnova Ora</translation>
     </message>
 </context>
 <context>
     <name>KxDlgExpirationReminder</name>
     <message>
         <source>WPS Office Expiration Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Reminder della scadenza di WPS Office</translation>
     </message>
     <message>
         <source>Your subscription for WPS Office or %1-day trial expires now.</source>
