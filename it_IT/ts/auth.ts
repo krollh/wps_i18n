@@ -5,42 +5,42 @@
 <context>
     <name>KBubbleLocalTip</name>
     <message>
-        <source>Some features will not work properly. &lt;br/&gt;Please renew now.</source>
+        <source>Alcune funzionalita' potrebbero non funzionare correttamente. &lt;br/&gt;Rinnova ora.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Renew Now &gt;&gt;</source>
+        <source>Rinnova Ora &gt;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your subscription has expired</source>
+        <source>La tua iscrizione è scaduta</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KBubbleTipManager</name>
     <message>
-        <source>You try %1 days, and %2 days left. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
+        <source>Hai provato per %1 giorni, te ne restano %2. &lt;br/&gt;Alla scadenza del peiodo di prova, il prodotto non funzionera' correttamente. &lt;br/&gt; Per evitarlo acquista WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The probation period is about to expire</source>
+        <source>Il periodo di prova sta per terminare</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Buy Now &gt;&gt;</source>
+        <source>Acquista &gt;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You hava Authorized %1 days remaining. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
+        <source>Ti restano solo %1 giorni. &lt;br/&gt;Alla scadenza del peiodo di prova, il prodotto non funzionera' correttamente &lt;br/&gt; Per evitarlo acquista WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Authorize period is about to expire</source>
+        <source>Il periodo autorizzato sta per terminare.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Renew Now &gt;&gt;</source>
+        <source>Rinnova Ora &gt;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -54,27 +54,27 @@
 <context>
     <name>KRegisterDlg</name>
     <message>
-        <source>The items with &quot;*&quot; must be entered.</source>
+        <source>I campi segnati con &quot;*&quot; sono obbligatori.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Documents&apos; Author</source>
+        <source>Autore del documento/source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>* Name:</source>
+        <source>* Nome:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
+        <source>(&quot;Nome&quot; è il nome dell'autore e del revisore del documento )</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Initials:</source>
+        <source>Iniziali:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Organization:</source>
+        <source>Organizzazione:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -86,7 +86,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fail to save the serial number. Please check whether you have the administrator permission or not.</source>
+        <source>Impossibile salvare il serial number. Verifica di avere i permessi di amministratore.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
